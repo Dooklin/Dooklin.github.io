@@ -17,4 +17,8 @@ button.addEventListener("click", function () {
   }
 
   document.getElementById("text").innerHTML = result;
-});
+
+  if (window.navigator.userAgent.indexOf("Edg") > -1) {
+    console.log("Stop using Edge");
+  }
+})
