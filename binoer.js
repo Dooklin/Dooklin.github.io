@@ -1,9 +1,11 @@
 let button = document.getElementById("button");
+let secretButton = document.getElementById("secret");
+let count = 0;
 
 button.addEventListener("click", function () {
   let decimal = parseInt(document.getElementById("input").value);
   let result;
-  
+
   if (decimal === 6969) {
     console.log("Hello Dear");
     return;
@@ -21,4 +23,12 @@ button.addEventListener("click", function () {
   if (window.navigator.userAgent.indexOf("Edg") > -1) {
     console.log("Stop using Edge");
   }
-})
+});
+
+secretButton.addEventListener("click", function () {
+  count++;
+
+  if (count === 10) {
+    location.href = "otherStuff/secret.html";
+  }
+});
