@@ -28,7 +28,7 @@ button.addEventListener("click", function () {
 secretButton.addEventListener("click", function () {
   count++;
 
-  if (count === 10) {
+  if (count === 5) {
     location.href = "otherStuff/secret.html";
   }
 });
