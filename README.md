@@ -1,6 +1,8 @@
 # Dooklin.github.io
 
-A short little Decimal to Binary Converter
-but you'll have to fight the 7 Astol-foes in the process.
+A short little Decimal to Binary and Binary to Decimal Converter
+but you'll have to fight the 7 Astol-foes, or the 7 Wai-foes in the process.
 
-There's also 4 Easter-Eggs so far, try to find them.
+There's also some Easter-Eggs so far, try to find them.
+
+Also, try and connect the pieces of the Puzzle, it may lead you to something...
