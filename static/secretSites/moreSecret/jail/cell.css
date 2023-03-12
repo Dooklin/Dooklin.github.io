@@ -19,21 +19,21 @@ p {
 
 #dip{
     position: absolute;
-    right: -25px;
+    right: 0px;
     bottom: 0;
+    color: aliceblue;
 }
 
 img{
   position: absolute;
   right: -25px;
-  bottom: 9%;
+  bottom: 15%;
 }
 
 h3{
   position: absolute;
   right: -25px;
-  bottom: 0;
+  bottom: 8%;
   font-family: 'Yu Gothic Light';
   color: aliceblue;
 }
-
