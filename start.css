@@ -1,0 +1,42 @@
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #805434;
+    color: #ffffff;
+    border-radius: 4px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+.button:hover {
+    background-color: #bc8452;
+}
+
+#snake{
+    margin-left: 69%;
+    margin-top: 9%;
+}
+
+#binary{
+    margin-left: 71%;
+    margin-top: 13%;
+}
+
+#decimal{
+    margin-left: 72%;
+    margin-top: 13%;
+}
+
+body, html{
+    min-height: 100%;
+}
+
+body{
+    background-image: url("static/background/index.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    font-family: 'Yu Gothic Light';
+}

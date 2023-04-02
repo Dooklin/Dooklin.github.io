@@ -1,0 +1,25 @@
+body {
+    background-image: url('../../background/background.png');
+  }
+
+h1{
+    font-family: 'Yu Gothic Light';
+}
+
+h2{
+    font-family: 'Yu Gothic Light';
+    font-style: italic;
+}
+
+h3{
+  font-family: 'Yu Gothic Light';
+  font-weight: bolder;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+}
