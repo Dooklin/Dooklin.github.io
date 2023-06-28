@@ -9,3 +9,6 @@ Also, try and connect the pieces of the Puzzle, it may lead you to something...
 
 oh yeah and snake
 and some clicker
+
+
+Oh yeah and I, frido, am also somewhat included in this whole thing
