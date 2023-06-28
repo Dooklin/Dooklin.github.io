@@ -1,0 +1,17 @@
+body {
+    background-image: url('../background/background.png');
+  }
+
+h1, h2, h3 {
+    font-family: 'Yu Gothic Light';
+}
+
+button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: #65432b;
+  color: #ffffff;
+  border-radius: 8px;
+  text-align: center;
+}

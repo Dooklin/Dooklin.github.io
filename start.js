@@ -11,6 +11,7 @@ buttons.forEach(button => {
 let binary = document.getElementById("binary");
 let decimal = document.getElementById("decimal");
 let snake = document.getElementById("snake");
+let clicker = document.getElementById("clicker");
 
 binary.addEventListener("click", function() {
     location.href = "/static/binoer/binoer.html";
@@ -22,4 +23,8 @@ decimal.addEventListener("click", function() {
 
 snake.addEventListener("click", function() {
     location.href = "/static/snake/snake.html"
+})
+
+clicker.addEventListener("click", function() {
+    location.href = "/static/clicker/clicker.html"
 })

@@ -8,5 +8,3 @@ There's also some Easter-Eggs so far, try to find them.
 Also, try and connect the pieces of the Puzzle, it may lead you to something...
 
 oh yeah and snake
-
-also some clicker game (in testing)

@@ -27,6 +27,11 @@
     margin-top: 13%;
 }
 
+#clicker{
+    margin-right: 7%;
+    margin-top: 1%;
+}
+
 body, html{
     min-height: 100%;
 }
