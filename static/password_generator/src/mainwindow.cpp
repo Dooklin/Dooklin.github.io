@@ -87,6 +87,6 @@ void MainWindow::secret() {
 
 void MainWindow::explosion(int v) {
     if (v == this->p->maximum()) {
-        ui->label->setText( QString("This is a secret message from frido $ ele\nI hope feldler doesn't find it...\nc++ > php") );
+        ui->label->setText( QString("This is a secret message from frido & ele\nI hope feldler doesn't find it...\nc++ > php") );
     }
 }
