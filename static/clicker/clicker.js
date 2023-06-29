@@ -47,7 +47,7 @@ function add100(){
 }
 
 function add500(){
-  count += 100;
+  count += 500;
   output.innerHTML = count;
 }
 
