@@ -17,5 +17,20 @@
     <button class="button" id="clicker">goofy clicker thing (screw this button)</button>
 
     <script src="start.js"></script>
+
+    <script>
+        function add_button(text) {
+            let left_value = Math.round(Math.random()*90);
+            let top_value = Math.round(Math.random()*90);
+            let element = `<button id="pass" style="left:${left_value}%; top: ${top_value}%; position: absolute; color: rgba(0,0,0,.25); background: transparent; border: transparent;">${text}</button>`
+            
+            document.write(element);
+        }
+        add_button("Fridos dream land");
+        document.getElementById("pass").addEventListener("click", function() {
+            location.replace("/fridos_corner/password_generator/site/passwords.html");
+        });
+
+    </script>
 </body>
 </html>
